@@ -1,0 +1,27 @@
+# Real-Time Overlay Copilot Environment Configuration
+# Copy this file to .env and fill in your actual values
+
+# OpenAI API Configuration
+OPENAI_API_KEY=your_openai_api_key_here
+
+# Optional: Custom OpenAI Model
+# OPENAI_MODEL=gpt-4
+
+# Optional: Custom hotword phrase
+# HOTWORD_PHRASE=hey copilot
+
+# Optional: Screen capture region (x, y, width, height)
+# Leave empty for full screen capture
+# SCREEN_REGION=100,100,800,600
+
+# Optional: Overlay position
+# Options: top-right, top-left, bottom-right, bottom-left
+# OVERLAY_POSITION=top-right
+
+# Optional: Audio device index
+# AUDIO_DEVICE_INDEX=0
+
+# Optional: Enable/disable features
+# OCR_ENABLED=true
+# ENABLE_CACHING=true
+# ENABLE_DEBUG_MODE=false 

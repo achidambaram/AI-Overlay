@@ -1,0 +1,12 @@
+#!/bin/bash
+# Real-Time Overlay Copilot Launcher
+# Run this script from anywhere to start the copilot
+
+# Get the directory where this script is located
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+
+# Change to the script directory
+cd "$SCRIPT_DIR"
+
+# Run the Python launcher
+python3 run_copilot.py "$@" 
