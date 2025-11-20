@@ -1,16 +1,16 @@
-# 🚀 Real-Time Overlay Copilot
+# Real-Time Overlay Copilot
 
 A screen-aware AI coding copilot that provides real-time assistance for developers by monitoring your screen, listening to audio, and suggesting relevant code snippets, bug fixes, and context-aware solutions.
 
-## ✨ Features
+## Features
 
-- **🔍 Screen Monitoring**: Watches your screen in real-time to understand context
-- **🎤 Audio Processing**: Listens for hotwords and voice commands
-- **🤖 AI-Powered Suggestions**: Provides relevant code snippets and bug fixes
-- **👻 Invisible Overlay**: Non-intrusive interface that appears when needed
+- **Screen Monitoring**: Watches your screen in real-time to understand context
+- **Audio Processing**: Listens for hotwords and voice commands
+- **AI-Powered Suggestions**: Provides relevant code snippets and bug fixes
+- **Invisible Overlay**: Non-intrusive interface that appears when needed
 - **⚡ Hotword Activation**: "Hey Copilot" to activate assistance
-- **📝 Context Awareness**: Understands your current coding environment
-- **🔧 Real-Time Fixes**: Suggests immediate solutions to problems
+- **Context Awareness**: Understands your current coding environment
+- **Real-Time Fixes**: Suggests immediate solutions to problems
 
 ## 🛠️ Installation
 
@@ -40,7 +40,7 @@ brew install tesseract portaudio
 sudo apt-get install tesseract-ocr portaudio19-dev
 ```
 
-## 🚀 Usage
+## Usage
 
 ### **One-Command Options**
 
@@ -49,10 +49,10 @@ sudo apt-get install tesseract-ocr portaudio19-dev
 python run_copilot.py
 ```
 Choose from:
-- 🎯 **Demo** (no setup required)
-- 🚀 **Full Copilot** (requires OpenAI API key)
-- 💰 **Free Copilot** (no API costs - rule-based)
-- 🔧 **Setup only**
+-  **Demo** (no setup required)
+-  **Full Copilot** (requires OpenAI API key)
+-  **Free Copilot** (no API costs - rule-based)
+-  **Setup only**
 
 #### **Direct Commands**
 ```bash
