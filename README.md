@@ -12,7 +12,7 @@ A screen-aware AI coding copilot that provides real-time assistance for develope
 - **Context Awareness**: Understands your current coding environment
 - **Real-Time Fixes**: Suggests immediate solutions to problems
 
-## 🛠️ Installation
+## Installation
 
 1. Clone the repository:
 ```bash
@@ -67,14 +67,14 @@ python main.py
 ```
 
 ### **Cost Options**
-- **💰 FREE**: Rule-based analysis, no API costs
-- **🆓 FREE**: Open source LLMs (Ollama, Hugging Face)
-- **💵 Affordable**: GPT-3.5-turbo (~$1-10/month)
-- **💎 Premium**: GPT-4 (~$10-50/month)
+- **FREE**: Rule-based analysis, no API costs
+- **FREE**: Open source LLMs (Ollama, Hugging Face)
+- **Affordable**: GPT-3.5-turbo (~$1-10/month)
+- **Premium**: GPT-4 (~$10-50/month)
 
 See [COST_GUIDE.md](COST_GUIDE.md) for detailed pricing and [OPEN_SOURCE_GUIDE.md](OPEN_SOURCE_GUIDE.md) for open source options.
 
-## 🏗️ Architecture
+## Architecture
 
 - **Screen Monitor**: Captures and analyzes screen content
 - **Audio Processor**: Handles hotword detection and voice commands
@@ -82,7 +82,7 @@ See [COST_GUIDE.md](COST_GUIDE.md) for detailed pricing and [OPEN_SOURCE_GUIDE.m
 - **Overlay UI**: Displays suggestions in a non-intrusive way
 - **Context Manager**: Maintains awareness of current development state
 
-## 🔧 Configuration
+## Configuration
 
 Edit `config.py` to customize:
 - Hotword sensitivity
@@ -91,10 +91,10 @@ Edit `config.py` to customize:
 - UI appearance
 - Keyboard shortcuts
 
-## 📝 License
+## License
 
 MIT License - see LICENSE file for details
 
-## 🤝 Contributing
+## Contributing
 
 Contributions welcome! Please read CONTRIBUTING.md for guidelines. 
