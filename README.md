@@ -8,7 +8,7 @@ A screen-aware AI coding copilot that provides real-time assistance for develope
 - **Audio Processing**: Listens for hotwords and voice commands
 - **AI-Powered Suggestions**: Provides relevant code snippets and bug fixes
 - **Invisible Overlay**: Non-intrusive interface that appears when needed
-- **⚡ Hotword Activation**: "Hey Copilot" to activate assistance
+- **Hotword Activation**: "Hey Copilot" to activate assistance
 - **Context Awareness**: Understands your current coding environment
 - **Real-Time Fixes**: Suggests immediate solutions to problems
 
